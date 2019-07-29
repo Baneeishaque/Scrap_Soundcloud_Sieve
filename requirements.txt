@@ -1,0 +1,5 @@
+soupsieve
+cssutils
+BeautifulSoup4
+selenium
+typing
